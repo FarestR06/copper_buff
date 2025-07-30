@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Farest's Copper Buff!","bold":true,"color":"light_purple"},{"text":"\n"},{"text":"[Pack PNG]\n[Sauce]\n[Modrint","click_event":{"action":"open_url","url":"https://www.reddit.com/r/PhoenixSC/comments/1lqprt6/my_issue_with_coppers_uselessness/"}},{"text":"h Page]"}]

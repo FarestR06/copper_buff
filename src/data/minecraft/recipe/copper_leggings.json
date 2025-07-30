@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:copper_ingot"
+  },
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:copper_leggings",
+    "components": {
+      "max_damage": 232,
+      "attribute_modifiers": [
+        {
+          "id": "fr06_copper:leggings",
+          "type": "armor",
+          "operation": "add_value",
+          "amount": 3
+        },
+        {
+          "id": "fr06_copper:leggings_toughness",
+          "type": "armor_toughness",
+          "operation": "add_value",
+          "amount": 1
+        }
+      ]
+    }
+  }
+}
