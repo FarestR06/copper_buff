@@ -1,6 +1,7 @@
 {
     "pack": {
         "description": "Satisying r/PhoenixSC's progression-related demands",
-        "pack_format": 82.0
+        "min_format": 82,
+        "max_format": 82
     }
 }

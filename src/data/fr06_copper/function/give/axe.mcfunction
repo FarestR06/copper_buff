@@ -1,0 +1,1 @@
+give @s minecraft:copper_axe[max_damage=316]

@@ -1,0 +1,1 @@
+give @s minecraft:copper_sword[max_damage=316]

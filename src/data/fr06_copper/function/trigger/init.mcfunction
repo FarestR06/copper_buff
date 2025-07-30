@@ -1,0 +1,1 @@
+scoreboard objectives add copper_buff_credits trigger

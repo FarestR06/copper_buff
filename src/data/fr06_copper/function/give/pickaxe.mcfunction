@@ -1,0 +1,1 @@
+give @s minecraft:copper_pickaxe[max_damage=316]

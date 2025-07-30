@@ -1,0 +1,1 @@
+give @s minecraft:copper_shovel[max_damage=316]

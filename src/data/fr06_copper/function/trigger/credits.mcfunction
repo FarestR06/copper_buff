@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"Farest's Copper Buff","bold":true,"color":"light_purple"},{"text":"\n"},{"text":"[Pack PNG]","underlined":true,"color":"aqua","click_event":{"action":"open_url","url":"https://www.reddit.com/r/PhoenixSC/comments/1lqprt6/my_issue_with_coppers_uselessness/"}},{"text":"\n"},{"text":"[Sauce]","underlined":true,"color":"aqua", "click_event":{"action":"open_url","url":"https://github.com/FarestR06/copper_buff.git"}}]
+scoreboard players set @s copper_buff_credits 0
